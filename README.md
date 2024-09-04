@@ -1,0 +1,1 @@
+Extremely niche program that goes through a folder, finds each file and makes an extensionless file with that file's name so that the original can be moved but a record of it's presence remains in the original directory.
